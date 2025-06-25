@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "img_url": "https://www.google.com/imgres?q=inception&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2F2%2F2e%2FInception_%25282010%2529_theatrical_poster.jpg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FInception&docid=mY-4QBlSKoATHM&tbnid=bFRuIG-3uuHWIM&vet=12ahUKEwiO8_D6g42OAxV7hf0HHQwdAK4QM3oECGUQAA..i&w=220&h=326&hcb=2&ved=2ahUKEwiO8_D6g42OAxV7hf0HHQwdAK4QM3oECGUQAA",
+    "title": "Inception",
+    "directed_by": "Christopher Nolan",
+    "year": 2010,
+    "duration": 148,
+    "genres": ["azione", "thriller", "fantascienza"],
+    "short_description": "Un ladro esperto nell'arte dell'estrazione di segreti dal subconscio viene incaricato di compiere l'impossibile: innestare un'idea nella mente di una persona."
+  },
+  {
+    "id": 2,
+    "img_url": "https://www.google.com/imgres?q=john%20wick%203&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F81-QxCYiDBL._UF1000%2C1000_QL80_.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.it%2FJohn-Wick-Parabellum-versione-italiana%2Fdp%2FB07QQHMCXN&docid=Oy2VUf5OxAeVNM&tbnid=3QgEqKqaIWpTUM&vet=12ahUKEwiN7a2ehI2OAxU-hv0HHRjCBaEQM3oECFIQAA..i&w=794&h=1000&hcb=2&ved=2ahUKEwiN7a2ehI2OAxU-hv0HHRjCBaEQM3oECFIQAA",
+    "title": "John Wick 3 - Parabellum",
+    "directed_by": "Chad Stahelski",
+    "year": 2019,
+    "duration": 131,
+    "genres": ["azione", "thriller"],
+    "short_description": "Con una taglia sulla sua testa, John Wick deve affrontare orde di assassini mentre cerca una via per la salvezza."
+  },
+  {
+    "id": 3,
+    "img_url": "https://www.google.com/imgres?q=tenet&imgurl=https%3A%2F%2Fpad.mymovies.it%2Ffilmclub%2F2019%2F10%2F296%2Flocandina.jpg&imgrefurl=https%3A%2F%2Fwww.mymovies.it%2Ffilm%2F2020%2Ftenet%2F&docid=pn9scQ5lskx3JM&tbnid=ZIayBtBJxg_BxM&vet=12ahUKEwjzxpSuhI2OAxUr8LsIHcEMJdgQM3oECBsQAA..i&w=420&h=622&hcb=2&ved=2ahUKEwjzxpSuhI2OAxUr8LsIHcEMJdgQM3oECBsQAA",
+    "title": "Tenet",
+    "directed_by": "Christopher Nolan",
+    "year": 2020,
+    "duration": 150,
+    "genres": ["azione", "thriller", "fantascienza"],
+    "short_description": "Un agente segreto deve manipolare il flusso del tempo per prevenire la Terza Guerra Mondiale in una missione che sfida ogni logica."
+  }
+]
